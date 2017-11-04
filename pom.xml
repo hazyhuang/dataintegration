@@ -68,6 +68,10 @@
     <groupId>org.springframework</groupId>
     <artifactId>spring-context</artifactId>
 </dependency>
+ <dependency>
+    <groupId>agile</groupId>
+    <artifactId>AgileAPI</artifactId>
+ </dependency> 	
   		
   		  		<!-- https://mvnrepository.com/artifact/log4j/log4j -->
 <dependency>
@@ -122,7 +126,11 @@
     <artifactId>spring-context</artifactId>
     <version>4.2.9.RELEASE</version>
 </dependency>
-  		
+ <dependency>
+    <groupId>agile</groupId>
+    <artifactId>AgileAPI</artifactId>
+    <version>933</version>
+</dependency> 		
   	</dependencies>
   </dependencyManagement>
 </project>
